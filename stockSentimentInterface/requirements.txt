@@ -1,0 +1,9 @@
+requests
+streamlit
+cufflinks
+SQLAlchemy
+pandas
+python-dotenv
+mysql
+pymysql
+mysqlclient
